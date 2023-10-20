@@ -1,6 +1,7 @@
 ---
 title: "Code Cells"
 format: html
+editor: visual
 ---
 
 ```{r}

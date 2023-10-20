@@ -1,6 +1,7 @@
 ---
 title: "Markdown syntax"
 format: html
+editor: visual
 ---
 
 1.  Add a title and author to the YAML header. Add a table of contents as well.

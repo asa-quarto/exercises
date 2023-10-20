@@ -1,6 +1,7 @@
 ---
 title: "Tables and figures"
 format: html
+editor: visual
 ---
 
 1.  Create a 3 row x 2 col markdown table, populate with a column for restaurant + column for cuisine, and then add 3 examples. Then, cross reference it from text.

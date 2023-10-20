@@ -1,6 +1,7 @@
 ---
 title: "Callout boxes"
 format: html
+editor: visual
 ---
 
 ::: {callout-note}
