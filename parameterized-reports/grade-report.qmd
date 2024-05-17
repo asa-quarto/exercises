@@ -1,0 +1,23 @@
+---
+title: "Grade Report"
+format: pdf
+---
+
+```{r}
+#| echo: false
+#| message: false
+library(dplyr)
+grades <- read.csv("grades.csv")
+```
+
+Good work this semester!
+
+Below you'll find your grades on the main assessment items in the course. If you have any questions, please stop by my office hours.
+
+```{r}
+#| echo: false
+library(gt)
+gt(grades)
+```
+
+
